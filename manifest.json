@@ -1,0 +1,23 @@
+{
+  "name": "GymTrack",
+  "short_name": "GymTrack",
+  "description": "Track workouts, calories, and progress — offline-ready.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0c10",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "https://fakeimg.pl/192x192/f59e0b/0c0c10?text=GT&font=lobster",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://fakeimg.pl/512x512/f59e0b/0c0c10?text=GT&font=lobster",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
